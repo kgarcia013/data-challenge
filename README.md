@@ -1,3 +1,8 @@
+
+**Answers to the Data Challenge are in Answers.md. Please see the following instructions if you would like to run the queries in Python.**
+
+## Running Code in Python
+
 ### Installing Dependencies
 
 1. Run ``` pip install -r requirements.txt ```

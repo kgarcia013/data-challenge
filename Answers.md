@@ -1,5 +1,5 @@
 
-#### Below are the answers to my questions. Please note: All Queries are presented in this file and can also be viewed as dataframes in the following python file (drop_box_interview.py). All SQL answers are written using SQLITE.
+#### Below are the answers to my questions. Please note: All Queries  presented in this file and can also be viewed as dataframes in the following python file (answers.py). All SQL answers are written using SQLITE.
 
 #### [Part 1 - Exploratory Analysis] Paint a picture of the support experience. What are the typical handle times by support channel? Are there differences between user types? Don’t worry about being exhaustive here, just pick a few interesting things to highlight.
 
